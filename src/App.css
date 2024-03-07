@@ -1,0 +1,40 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+  }
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap:10px;
+}
+
+.card-body {
+  text-align: center;
+
+}
+
+img {
+  height: 300px;
+}
+
+h6 {
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+
+
+
+
